@@ -3,7 +3,7 @@
 
 **I'm an android developer since 2018**
 
-- 💬 Ask me about Java, Kotlin, Android development.
+- 💬 Ask me about mobile application, android development with kotlin and java .
 
 - :e-mail:   Email : Alikazemi.developer@gmail.com
 
