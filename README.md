@@ -9,7 +9,7 @@
 
 <br />
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awlrhm&show_icons=true&theme=codeSTACKr )|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awlrhm&layout=compact&show_icons=true&theme=codeSTACKr )](https://github.com/anuraghazra/github-readme-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazemii&show_icons=true&theme=codeSTACKr )|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazemii&layout=compact&show_icons=true&theme=codeSTACKr )](https://github.com/anuraghazra/github-readme-stats)|
 ------------- | -------------
 
 **How to reach me**
