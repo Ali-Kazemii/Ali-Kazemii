@@ -1,11 +1,11 @@
-## Hi, I'm Ali Kazemi 👋
+## Hi, I'm Ali Kazemi :wave:
 
 
 **I'm an android developer since 2018**
 
 - 💬 Ask me about Java, Kotlin, Android development.
 
-- ![Gmail_icon_(2020) svg](https://user-images.githubusercontent.com/73734233/157263494-e4701c01-5525-4d53-88f8-b66191a8fd98.png)   Email : Alikazemi.developer@gmail.com
+- :e-mail:   Email : Alikazemi.developer@gmail.com
 
 <br />
 
