@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30' align="left"/><h2 align="left">Hey there! I'm Ali</h2>
+### Hey there! I'm Ali 👋😃
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -9,10 +9,11 @@
   <a href= "https://www.youtube.com/channel/UCbZqJMtwXIlNzUEO6YBtaKw"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
+### About Me
+
 - 🔭 I’m currently working on android projects, mainly programming and developing applications.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions
 - 🌱 I'm on track for learning more about software architectures and mobile project practices.
-- 👯 I’m looking to collaborate on mobile projects
 - 💬 Ask me about mobile application, android development with kotlin and java .
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
