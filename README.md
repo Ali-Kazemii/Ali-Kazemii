@@ -55,7 +55,11 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazemii&show_icons=true&theme=codeSTACKr )|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazemii&layout=compact&show_icons=true&theme=codeSTACKr )](https://github.com/anuraghazra/github-readme-stats)|
 ------------- | -------------
 
+
+<!--
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ali-kazemii&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
+
+-->
