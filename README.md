@@ -7,6 +7,7 @@
   <a href= ""><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://www.instagram.com/artinsoft.official/"><img src="https://user-images.githubusercontent.com/73734233/157426490-088c7bee-9979-4bd6-b31a-575f50c6a097.png"/></a>
   <a href= "https://www.youtube.com/channel/UCbZqJMtwXIlNzUEO6YBtaKw"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "mailto:Alikazemi.developer@gmail.com"><img width="54px" src="https://user-images.githubusercontent.com/73734233/157443522-ba2eed6a-59c0-47ee-a5f1-c236f1ade1d6.png"/></a>
 </p>
 
 ### About Me
@@ -18,7 +19,6 @@
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
 - ⚡ Languages: Kotlin, Java, C#
-- :e-mail:   Email : Alikazemi.developer@gmail.com
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/3907063ac5b2da8f1ef395656e7a15a50a76d7f9/assets/Night-Coding.gif" align="right"/>
