@@ -1,4 +1,4 @@
-## Hi, I'm Ali Kazemi :wave:
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ali</h2>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -9,26 +9,19 @@
   <a href= "https://www.youtube.com/channel/UCbZqJMtwXIlNzUEO6YBtaKw"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
 </p>
 
-
-
--🔭 I’m currently working on android projects, mainly programming and developing applications.
-
--🌱 I’m currently learning software architectures and mobile project practices.
-
--👯 I’m looking to collaborate on mobile projects
-
--💬 Ask me about mobile application, android development with kotlin and java .
-
--📫 How to reach me: you can reach me from the social media links above
-
--😄 Pronouns: he/him
-
--⚡ Languages: Kotlin, Java, C#
-
+- 🔭 I’m currently working on android projects, mainly programming and developing applications.
+- 💡 &nbsp;I like to explore new technologies and develop software solutions
+- 🌱 I'm on track for learning more about software architectures and mobile project practices.
+- 👯 I’m looking to collaborate on mobile projects
+- 💬 Ask me about mobile application, android development with kotlin and java .
+- 📫 How to reach me: you can reach me from the social media links above
+- 😄 Pronouns: he/him
+- ⚡ Languages: Kotlin, Java, C#
 - :e-mail:   Email : Alikazemi.developer@gmail.com
 
+<br />
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/3907063ac5b2da8f1ef395656e7a15a50a76d7f9/assets/Night-Coding.gif" align="right"/>
 
 ### Languages and Tools:
 
@@ -38,6 +31,7 @@
 <img align="left" alt="C#" width="32px" src="https://user-images.githubusercontent.com/73734233/157434393-ef62b9a1-a54a-4295-8ad0-54474186ebad.png"/>
 <img align="left" alt="C++" width="34px" src="https://user-images.githubusercontent.com/73734233/157434457-c4392dd5-d58b-4a1a-ad2b-1c66a85d5c0d.png"/>
 <img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/73734233/157434526-65aa7b49-17da-48cf-96f2-48a8064a28b4.png"/>
+
 <br />
 <br />
 
@@ -58,7 +52,7 @@
 
 ---
 
- 
+ ### ⚙️ &nbsp;GitHub Analytics
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazemii&show_icons=true&theme=codeSTACKr )|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazemii&layout=compact&show_icons=true&theme=codeSTACKr )](https://github.com/anuraghazra/github-readme-stats)|
 ------------- | -------------
 
