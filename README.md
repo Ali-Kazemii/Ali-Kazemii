@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ali</h2>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30' align="left"/><h2 align="left">Hey there! I'm Ali</h2>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -19,7 +19,6 @@
 - ⚡ Languages: Kotlin, Java, C#
 - :e-mail:   Email : Alikazemi.developer@gmail.com
 
-<br />
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/3907063ac5b2da8f1ef395656e7a15a50a76d7f9/assets/Night-Coding.gif" align="right"/>
 
@@ -32,7 +31,6 @@
 <img align="left" alt="C++" width="34px" src="https://user-images.githubusercontent.com/73734233/157434457-c4392dd5-d58b-4a1a-ad2b-1c66a85d5c0d.png"/>
 <img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/73734233/157434526-65aa7b49-17da-48cf-96f2-48a8064a28b4.png"/>
 
-<br />
 <br />
 
 
