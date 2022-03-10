@@ -23,7 +23,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/3907063ac5b2da8f1ef395656e7a15a50a76d7f9/assets/Night-Coding.gif" align="right"/>
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/73734233/157638125-0f1f47ae-445a-46b6-8088-168ffc6e9336.mp4" align="right"/>
 
 
 
