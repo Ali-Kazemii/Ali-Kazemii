@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on android projects, mainly programming and developing applications.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions
-- 🌱 I'm on track for learning more about technologies and developing softwares.
+- 🌱 I'm on track for learning more about technologies and developing advance softwares.
 - 💬 Ask me about mobile application, android development with kotlin and java .
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
