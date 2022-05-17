@@ -21,7 +21,7 @@
 - ⚡ Languages: Kotlin, Java, C#
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/3907063ac5b2da8f1ef395656e7a15a50a76d7f9/assets/Night-Coding.gif" align="right"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" align="right"/>
 
 
 
