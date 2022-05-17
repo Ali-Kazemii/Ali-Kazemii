@@ -1,4 +1,9 @@
-### Hey there! I'm Ali 👋😃
+<img align="top" alt="Coding" width="20000" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="right"/>
+
+
+<h1 align="center">Hey there! I'm Ali 👋😃</h1>
+<h3 align="center">A passionate Android developer</h3>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
