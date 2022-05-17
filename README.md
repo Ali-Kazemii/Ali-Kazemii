@@ -26,30 +26,8 @@
 
 
 
-### Languages and Tools:
-
-
-<img align="left" alt="Kotlin" width="32px" src="https://user-images.githubusercontent.com/73734233/157434255-074c4ce9-2014-43b9-8d42-5eec7d98e23c.png"/>
-<img align="left" alt="Java" width="32px" src="https://user-images.githubusercontent.com/73734233/157434330-82f74439-4ccf-440b-83ee-7d22fc95645b.png"/>
-<img align="left" alt="C#" width="32px" src="https://user-images.githubusercontent.com/73734233/157434393-ef62b9a1-a54a-4295-8ad0-54474186ebad.png"/>
-<img align="left" alt="C++" width="34px" src="https://user-images.githubusercontent.com/73734233/157434457-c4392dd5-d58b-4a1a-ad2b-1c66a85d5c0d.png"/>
-<img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/73734233/157434526-65aa7b49-17da-48cf-96f2-48a8064a28b4.png"/>
-
-<br />
-
-
-
-### Softwares:
-
-<img align="left" alt="Android Studio" width="32px" src="https://user-images.githubusercontent.com/73734233/157431025-00b5c7f3-c299-4ce6-9659-dd5b0ee35042.png" />
-<img align="left" alt="Visual Studio" width="32px" src="https://user-images.githubusercontent.com/73734233/157431413-232dce0e-744b-4986-832d-2f84e790c85a.png"/>
-<img align="left" alt="Sql Server" width="32px" src="https://user-images.githubusercontent.com/73734233/157431779-954ae2dd-ad6d-4ff3-ad56-8dc4a1b493e6.png"/>
-<img align="left" alt="Adobe Photoshop" width="32px" src="https://user-images.githubusercontent.com/73734233/157431861-7094b31f-e21f-4b48-add3-466f8315c543.png"/>
-<img align="left" alt="Adobe After Effects" width="32px" src="https://user-images.githubusercontent.com/73734233/157432023-5f130315-f380-413b-bdd8-d70a094d66c9.png"/>
-<img align="left" alt="Adobe Illustrator" width="32px" src="https://user-images.githubusercontent.com/73734233/157432999-d72c072c-d6e1-4201-8512-1d948198510a.png"/>
-
-
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <br />
 
 ---
