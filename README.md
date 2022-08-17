@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="20000" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="right"/>
+<img align="top|center" alt="Coding" width="1000" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" align="center"/>
 
 
 <h1 align="center">Hey there! I'm Ali 👋😃</h1>
