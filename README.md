@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/alikazemi-developer/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= ""><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://medium.com/@alikazemi.developer"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://www.instagram.com/artinsoft.official/"><img src="https://user-images.githubusercontent.com/73734233/157426490-088c7bee-9979-4bd6-b31a-575f50c6a097.png"/></a>
   <a href= ""><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
   <a href= "mailto:Alikazemi.developer@gmail.com"><img width="54px" src="https://user-images.githubusercontent.com/73734233/157443522-ba2eed6a-59c0-47ee-a5f1-c236f1ade1d6.png"/></a>
