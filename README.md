@@ -45,9 +45,3 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/73734233/218704594-7edd7056-19b1-4961-b6af-76ac19130b6d.png" alt="Swagger" width="40" height="40"/> 
 </a>
-
----
-
- ### ⚙️ &nbsp;GitHub Analytics
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Kazemii&show_icons=true&theme=swift)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Kazemii&layout=compact&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)|
-------------- | -------------
