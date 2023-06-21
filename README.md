@@ -15,13 +15,13 @@
 
 ### About Me
 
-- 🔭 I’m currently working on android projects, mainly programming and developing applications.
+- 🔭 I’m currently working on mobile projects, mainly programming and developing applications.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions
 - 🌱 I'm on track for learning more about technologies and developing advance softwares.
-- 💬 Ask me about mobile application, android development with kotlin, java and Flutter .
+- 💬 Ask me about mobile application development with kotlin, java and Flutter .
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
-- ⚡ Languages: Kotlin, Java, Flutter
+- ⚡ Languages: Dart, Kotlin, Java, 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" align="right"/>
