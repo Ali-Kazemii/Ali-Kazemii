@@ -1,4 +1,4 @@
-<img align="top|center" alt="Coding" src="https://user-images.githubusercontent.com/73734233/185778570-9f2eaf7e-4e65-4c25-823c-565d19f9c9de.gif" align="center"/>
+<img align="top|center" alt="Coding" src="https://github.com/Ali-Kazemii/Ali-Kazemii/assets/73734233/c33cb0f8-ddfc-4ae6-a06f-945704ab7669" align="center"/>
 
 
 <h1 align="center">Hey there! I'm Ali 👋😃</h1>
